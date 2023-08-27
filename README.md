@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help or assistance with **Golang/ QA**
 
-- 💬 Ask me about **QA automation or anything related to the topic**
+- 💬 You can ask me anything about **QA automation or related to the topic**
 
 - :earth_americas: I speak Russian (native), English (A2)
 
