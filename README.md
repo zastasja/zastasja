@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **QA automation or anything related to the topic**
 
+- :earth_americas: I speak Russian (native), English (A2)
+
 - 📫 How to reach me **<a href="https://t.me/anvzhukova">via telegram</a>**
 
 
@@ -17,6 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="30" height="30"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="pycharm" width="30" height="30"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="30"/> </a>
 <a href="https://learn.microsoft.com/ru-ru/sql/?view=sql-server-ver15"><img src="https://img.icons8.com/dotty/80/000000/sql.png"alt="SQL" width="40" height="35"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
