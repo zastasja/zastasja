@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi there, I'm <a href="https://github.com/zastasja" target="_blank">Anastasia</a>:octocat:</h2>
+<h2 align="center">Hi there, I'm <a href="https://github.com/zastasja" target="_blank">Anastasia</a> :octocat:</h2>
 <h3 align="center">Passionate AQA</h3>
 
 
