@@ -1,16 +1,60 @@
-### Hi there 👋
 
-<!--
-**zastasja/zastasja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi there, I'm <a href="https://github.com/zastasja" target="_blank">Anastasia</a>:octocat:</h2>
+<h3 align="center">Passionate AQA</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [bank project]((top_secret))
+
+- 🤝 I’m looking for help or assistance with **Golang/ QA**
+
+- 💬 Ask me about **QA automation or anything related to the topic**
+
+- 📫 How to reach me **<a href="https://t.me/anvzhukova">via telegram</a>**
+
+- ⚡ Fun fact: I'm funny
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://t.me/anvzhukova"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-telegram" width="30" height="30" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M15 10l-4 4l6 6l4 -16l-18 7l4 2l2 6l3 -4"></path>
+    </svg>
+</a>
+    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-skype" width="30" height="30" stroke-width="2" stroke="#237BF2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M12 3a9 9 0 0 1 8.603 11.65a4.5 4.5 0 0 1 -5.953 5.953a9 9 0 0 1 -11.253 -11.253a4.5 4.5 0 0 1 5.953 -5.954a8.987 8.987 0 0 1 2.65 -.396z"></path>
+   <path d="M8 14.5c.5 2 2.358 2.5 4 2.5c2.905 0 4 -1.187 4 -2.5c0 -1.503 -1.927 -2.5 -4 -2.5s-4 -1 -4 -2.5c0 -1.313 1.095 -2.5 4 -2.5c1.642 0 3.5 .5 4 2.5"></path>
+    </svg>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="30" height="30"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="30"/> </a>
+<a href="https://learn.microsoft.com/ru-ru/sql/?view=sql-server-ver15"><img src="https://img.icons8.com/dotty/80/000000/sql.png"alt="SQL" width="40" height="35"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
+<a href="https://about.gitlab.com" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-gitlab" width="35" height="35"  stroke-width="1" stroke="#E24329" fill="orange" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M31.4618 12.7787L31.417 12.6641L27.0667 
+    1.31308C26.9783 1.09046 26.8218 0.90145 26.6197 
+    0.773028C26.416 0.644476 26.1775 0.582308 25.937 
+    0.595107C25.6965 0.607906 25.4659 0.695039 25.277 
+    0.844481C25.0899 0.994513 24.955 1.1998 24.8915 
+    1.43106L21.9503 10.4324H10.0509L7.10976 1.43106C7.04625 
+    1.1998 6.91133 0.994513 6.72425 0.844481C6.53618 0.694035 
+    6.30572 0.606246 6.06523 0.593431C5.82473 0.580616 5.58625 
+    0.64342 5.38326 0.773028C5.18023 0.900924 5.02312 1.09005 
+    4.9346 1.31308L0.579314 12.679L0.534448 12.792C-0.0907536 
+    14.429 -0.167604 16.2247 0.315452 17.9091C0.798508 19.5935 
+    1.81536 21.0756 3.21309 22.1324L3.22971 22.144L3.26793 
+    22.1739L9.90306 27.1407L13.1832 29.625L15.1773 31.1354C15.4115 
+    31.3124 15.6971 31.4082 15.9907 31.4082C16.2842 31.4082 16.5698 
+    31.3124 16.8041 31.1354L18.7981 29.625L22.0799 27.1407L28.7533 
+    22.144L28.7715 22.1307C30.174 21.0749 31.1949 19.5916 31.6802 
+    17.9045C32.1656 16.2175 32.0889 14.4184 31.4618 12.7787Z" 
+    fill="#E24329"></path>
+</svg>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
+</p>
+<br>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zastasja&show_icons=true&locale=en&layout=compact" alt="zastasja" /></p>
