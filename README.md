@@ -1,4 +1,5 @@
 
+<img src="https://www.weidert.com/hs-fs/hubfs/Blog/2023-blog-images/typing-gif.gif?width=1240&height=698&name=typing-gif.gif">
 <h2 align="center">Hi there, I'm <a href="https://github.com/zastasja" target="_blank">Anastasia</a> :octocat:</h2>
 <h3 align="center">Passionate AQA</h3>
 
@@ -21,9 +22,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="pycharm" width="30" height="30"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="30"/> </a>
-<a href="https://learn.microsoft.com/ru-ru/sql/?view=sql-server-ver15"><img src="https://img.icons8.com/dotty/80/000000/sql.png"alt="SQL" width="40" height="35"/></a>
+<a href="https://learn.microsoft.com/ru-ru/sql/?view=sql-server-ver15"><img src="https://img.icons8.com/dotty/80/000000/sql.png" alt="SQL" width="40" height="35"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
-<a href="https://about.gitlab.com" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-gitlab" width="35" height="35"  stroke-width="1" stroke="#E24329" fill="orange" stroke-linecap="round" stroke-linejoin="round">
+<a href="https://about.gitlab.com" target="_blank">< xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-gitlab" width="35" height="35"  stroke-width="1" stroke="#E24329" fill="orange" stroke-linecap="round" stroke-linejoin="round">
    <path d="M31.4618 12.7787L31.417 12.6641L27.0667 
     1.31308C26.9783 1.09046 26.8218 0.90145 26.6197 
     0.773028C26.416 0.644476 26.1775 0.582308 25.937 
@@ -41,9 +42,8 @@
     31.3124 16.8041 31.1354L18.7981 29.625L22.0799 27.1407L28.7533 
     22.144L28.7715 22.1307C30.174 21.0749 31.1949 19.5916 31.6802 
     17.9045C32.1656 16.2175 32.0889 14.4184 31.4618 12.7787Z" 
-    fill="#E24329"></path>
-</svg>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
+    fill="#E24329"></path></a>></svg>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/></a>
 </p>
 <br>
 <br>
