@@ -23,7 +23,7 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="30"/> </a>
 <a href="https://learn.microsoft.com/ru-ru/sql/?view=sql-server-ver15"><img src="https://img.icons8.com/dotty/80/000000/sql.png" alt="SQL" width="40" height="35"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
-<a href="https://about.gitlab.com" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-gitlab" width="35" height="35"  stroke-width="1" stroke="#E24329" fill="orange" stroke-linecap="round" stroke-linejoin="round">
+<a href="https://about.gitlab.com" target="_blank"><svg><xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-gitlab" width="35" height="35"  stroke-width="1" stroke="#E24329" fill="orange" stroke-linecap="round" stroke-linejoin="round">
    <path d="M31.4618 12.7787L31.417 12.6641L27.0667 
     1.31308C26.9783 1.09046 26.8218 0.90145 26.6197 
     0.773028C26.416 0.644476 26.1775 0.582308 25.937 
@@ -46,4 +46,5 @@
 </p>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zastasja&show_icons=true&locale=en&layout=compact" alt="zastasja" /></p>
+<p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zastasja&show_icons=true&locale=en&layout=compact" alt="zastasja" /></p>
