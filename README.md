@@ -1,5 +1,4 @@
-
-<img src="https://www.weidert.com/hs-fs/hubfs/Blog/2023-blog-images/typing-gif.gif?width=1240&height=698&name=typing-gif.gif" align="center">
+<p text-align="center"><img src="https://www.weidert.com/hs-fs/hubfs/Blog/2023-blog-images/typing-gif.gif?width=1240&height=698&name=typing-gif.gif"></p>
 <h2 align="center">Hi there, I'm <a href="https://github.com/zastasja" target="_blank">Anastasia</a> :octocat:</h2>
 <h3 align="center">Passionate AQA</h3>
 
