@@ -1,4 +1,4 @@
-<img src="https://ca-times.brightspotcdn.com/dims4/default/282b9ef/2147483647/strip/true/crop/3000x2000+0+0/resize/840x560!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faf%2F23%2Faae89a474d299802f444f5c96206%2Fchat-gpt-02.gif" width=100% height=30%>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVyaGl1aDd2YzE4a3pteDMyb3poOTlvMHNpOHA0bnl6dWkyb2Q0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h6v5s2Nz0IKnS/giphy.gif" width=100% height=30%>
 <h2 align="center">Hi there, I'm <a href="https://github.com/zastasja" target="_blank">Anastasia</a> :octocat:</h2> 
 <h3 align="center">Passionate AQA</h3>
 
