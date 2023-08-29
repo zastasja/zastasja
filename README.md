@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/9kGQ.gif" width=100%>
+<img src="https://flow.org/img/featurette-confidently.gif" width=100%>
 <h2 align="center">Hi there, I'm <a href="https://github.com/zastasja" target="_blank">Anastasia</a> :octocat:</h2>
 <h3 align="center">Passionate AQA</h3>
 
