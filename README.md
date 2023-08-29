@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVyaGl1aDd2YzE4a3pteDMyb3poOTlvMHNpOHA0bnl6dWkyb2Q0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h6v5s2Nz0IKnS/giphy.gif" width=100% height=30%>
+<img src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif" width=100% height=30%>
 <h2 align="center">Hi there, I'm <a href="https://github.com/zastasja" target="_blank">Anastasia</a> :octocat:</h2> 
 <h3 align="center">Passionate AQA</h3>
 
