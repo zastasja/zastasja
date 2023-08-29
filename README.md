@@ -1,5 +1,5 @@
-<img src="https://ca-times.brightspotcdn.com/dims4/default/282b9ef/2147483647/strip/true/crop/3000x2000+0+0/resize/840x560!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faf%2F23%2Faae89a474d299802f444f5c96206%2Fchat-gpt-02.gif" width=100%>
-<h2 align="center">Hi there, I'm <a href="https://github.com/zastasja" target="_blank">Anastasia</a> :octocat:</h2>
+<img src="https://ca-times.brightspotcdn.com/dims4/default/282b9ef/2147483647/strip/true/crop/3000x2000+0+0/resize/840x560!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faf%2F23%2Faae89a474d299802f444f5c96206%2Fchat-gpt-02.gif" width=100% height="30%">
+<h2 align="center">Hi there, I'm <a href="https://github.com/zastasja" target="_blank">Anastasia</a> :octocat:</h2> 
 <h3 align="center">Passionate AQA</h3>
 
 
